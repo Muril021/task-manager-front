@@ -1,0 +1,24 @@
+.tasks {
+  margin: 50px 20px;
+  padding: 10px;
+  border: 1px solid #dddddd;
+}
+
+.tasks .content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tasks .content svg {
+  cursor: pointer;
+}
+
+.tasks .options a {
+  margin-right: 10px;
+}
+
+.tasks .radio {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+}
