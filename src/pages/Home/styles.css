@@ -1,0 +1,17 @@
+.home .options {
+  padding: 30px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.home .options h1 {
+  color: #222;
+}
+
+.home .add {
+  text-decoration: none;
+  padding: 10px 15px;
+  background-color: #02d495;
+  color: #fff;
+  border-radius: 5px;
+}
