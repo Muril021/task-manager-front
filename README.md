@@ -44,12 +44,12 @@ npm run preview
 Inicia um servidor local para visualizar o aplicativo a partir da pasta dist.
 
 ## Dependências
-React: ^18.2.0
-React Bootstrap: ^2.10.0
-React Router Dom: ^6.21.3
-Axios: ^1.6.5
-React Icons: ^5.0.1
-React Toastify: ^10.0.4
+- React: ^18.2.0
+- React Bootstrap: ^2.10.0
+- React Router Dom: ^6.21.3
+- Axios: ^1.6.5
+- React Icons: ^5.0.1
+- React Toastify: ^10.0.4
 
 ## Desenvolvedor
 Murilo Nascimento - murilojesus659@gmail.com
